@@ -129,7 +129,6 @@ Sample Solution:
 
 ```
 function array_count9(array) {
-
 	return array.filter((num) => num === 9).length;
 
 };
